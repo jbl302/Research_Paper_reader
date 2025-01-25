@@ -1,0 +1,15 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+python-dotenv
+langchain-mistralai
+pandas 
+numpy
+langchain
+ipykernel
+langchain-anthropic
+langchain_ollama
+langchain-community
+langchain-pinecone
+pinecone-notebooks
