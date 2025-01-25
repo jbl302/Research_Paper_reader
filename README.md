@@ -1,0 +1,1 @@
+Aim is to leverage llms to make reading papers as easier as possible like currently chatgpt, gemini, claude. I hope to Improve the response time and better context understanding which is again an advanced thing and i have to research on that.
